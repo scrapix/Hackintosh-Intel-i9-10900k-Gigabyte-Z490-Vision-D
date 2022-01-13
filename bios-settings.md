@@ -74,9 +74,9 @@ Also, always try XMP-off and CPU @ stock settings before you post about stabilit
 - Adcanced CPU Settings
   - CPU Over Temoerature Protection
   - FCLK Frequency for Early Power On
-# - Hyper-Threading Technolgy == Enable
+### - Hyper-Threading Technolgy == Enable
   - No. of CPU Cores Enabled
-#  - VT-d == DISABLE (can be enabled if you set DisableIoMapper to YES)
+###  - VT-d == DISABLE (can be enabled if you set DisableIoMapper to YES)
   - Intel(R) Speed Shift Technology
   - CPU Thermal Monitor
   - Ring to Core offset (Down Bin)
@@ -139,14 +139,14 @@ Platform Power
 - AC BACK
 
 IO Ports
-# - Internal Graphics == Disabled
+### - Internal Graphics == Disabled
 - Aperture Size
 - PCIE Bifurcation Support
 - Support Rocket Lake M2. Slot
 - USB 3.0 DAC-UP 2
 - OnBoard LAN Controller
 - Audio Controller
-# - Above 4G Decoding == Enable
+### - Above 4G Decoding == Enable
 - PCH LAN Controller
 - Wake on LAN Enable
 - IOAPIC 24-119 Entries
@@ -154,23 +154,23 @@ IO Ports
   - Discrete Thunderbolt(TM) Suppoert
   - Thunderbolt Boot Support
   - Wake From Thunderbolt(TM) Devices
-#  - Secirity Level == No Security
+###  - Secirity Level == No Security
   - Discrete Thunderbolt(TM) Configuration
-#    - GPIO3 Force Pwr == Enabled
+###    - GPIO3 Force Pwr == Enabled
 - USB Configuration
 - Network Stack Configuration
 - NVMe Configuration
 - SATA And RST Configuration
   - SATA Controller(s)
-#  - SATA Mode Selection == AHCI
+###  - SATA Mode Selection == AHCI
 - EZ RAID
 
 ## Miscellaneous
 - LEDs in System Power On State
 - Leds in Sleep, Hibernation and Soft Off States
 - Onboard DB Port LED
-# - Intel Platform Trust Technology (PTT)  == Disable
-# - Software Guard Extensions (SGX) == Disable
+### - Intel Platform Trust Technology (PTT)  == Disable
+### - Software Guard Extensions (SGX) == Disable
 - 3DMark01 Enhancement
 - CPU PCIe Link Speed
 - Trusted Computing
@@ -196,20 +196,20 @@ Smart Fan 5
 
 ## Boot
 Bootup Numlock State
-# CFG Lock == Disabled
+### CFG Lock == Disabled
 Security Option
 Full Screen LOGO Show
 
 Boot Option Priorities
 
-# Fast Boot == Disable Link
+### Fast Boot == Disable Link
 Mouse Speed
 Windows 10 Features
-# CSM Support == Disabled
+### CSM Support == Disabled
 Administratior Password
 User Password
 Secure Boot
-# - Secure Boot Enable == Disable
+### - Secure Boot Enable == Disable
 - Secure Boot Mode
 
 Preferred Operation Mode
