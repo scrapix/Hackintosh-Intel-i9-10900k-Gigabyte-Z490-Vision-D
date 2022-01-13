@@ -158,6 +158,7 @@ IO Ports
   - Discrete Thunderbolt(TM) Configuration
 ###    - GPIO3 Force Pwr == Enabled
 - USB Configuration
+###  - Legacy USB Support == Disabled
 - Network Stack Configuration
 - NVMe Configuration
 - SATA And RST Configuration
